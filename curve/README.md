@@ -1,3 +1,5 @@
+# Заголовок
+
 | Название | Токен | Auto-compounder | LP стратегия | LP Boost | APY | Комиссии |
 |----------|-------|-----------------|--------------|----------|-----|-----------|
 | StakeDAO | sdCRV [^1] | Concentrator asdCRV (Ethereum, Arbitrum) [^2] <br><br>Аудиты:<br>Peckshield, 2022<br>Secbit, 2023 | Curve CRV/vsdCRV/asdCRV<br>(Ethereum, Arbitrum, Polygon) [^7] | Convex 2.5x<br>StakeDAO 1.5x | 18,15% [^2] | StakeDAO 15% с основной доходности: [^5]<br>• 10% стимулы для своего пула<br>• 5% в DAO<br><br>Concentrator 15,5%:<br>• 0,5% harvest<br>• 10% treasury<br>• 15% veSDT boost fee (отдельно видимо) |
