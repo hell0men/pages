@@ -2,7 +2,7 @@
 
 | Name | Token | Auto-compounder | LP strategy | LP Boost | APY | Fees |
 |----------|-------|-----------------|--------------|----------|-----|-----------|
-| StakeDAO | sdCRV [^1] | Concentrator asdCRV (Ethereum, Arbitrum) [^2] <br><br>Аудиты:<br>Peckshield, 2022<br>Secbit, 2023 | Curve CRV/vsdCRV/asdCRV<br>(Ethereum, Arbitrum, Polygon) [^7] | Convex 2.5x<br>StakeDAO 1.5x | 18,15% [^2] | StakeDAO 15% from native yield: [^5]<br>• 10% for LP stimules<br>• 5% fro DAO<br><br>Concentrator 15,5%:<br>• 0,5% harvest<br>• 10% treasury<br>• 15% veSDT boost fee |
+| StakeDAO | sdCRV [^1] | Concentrator asdCRV (Ethereum, Arbitrum) [^2] <br><br>Audits:<br>Peckshield, 2022<br>Secbit, 2023 | Curve CRV/vsdCRV/asdCRV<br>(Ethereum, Arbitrum, Polygon) [^7] | Convex 2.5x<br>StakeDAO 1.5x | 18,15% [^2] | StakeDAO 15% from native yield: [^5]<br>• 10% for LP stimules<br>• 5% fro DAO<br><br>Concentrator 15,5%:<br>• 0,5% harvest<br>• 10% treasury<br>• 15% veSDT boost fee |
 | Yearn | yCRV | Yearn [^4]<br>st-yCRV / yyyCRV<br>(Ethereum)<br><br>Audits:<br>3 audits | LP Yearn CRV Vault v2 [^3] <br>(Ethereum) | Yearn veYFI | 18% [^4] | 10% performance fee [^6]<br>for LP stimules |
 | Convex | cvxCRV | Concentrator [^2]<br>aCRV<br>(Ethereum) | | | 17,5% [^2] | Concentrator 12%:<br>• 2% harvest<br>• 10% treasury |
 
